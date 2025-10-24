@@ -1,3 +1,6 @@
 12CSE1/.venv/
 12CSE1/blog/*.pyc/
 .vscode
+12CSE1/blog/__pycache__/settings.cpython-312.pyc
+12CSE1/blog/__pycache__/urls.cpython-312.pyc
+12CSE1/db.sqlite3
